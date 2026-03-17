@@ -1,0 +1,7 @@
+{
+    "python.testing.pytestArgs": [
+        "nodejs-513"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}
