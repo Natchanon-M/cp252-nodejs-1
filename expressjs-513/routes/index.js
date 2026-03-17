@@ -8,5 +8,5 @@ router.get('/edit/:id', noteController.editNote);
 router.post('/edit/:id', noteController.updateNote);
 router.get('/delete/:id', noteController.deleteNote);
 
-module.exports = router;
+module.exports = router; // test
 
